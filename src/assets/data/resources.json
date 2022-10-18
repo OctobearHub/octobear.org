@@ -35,7 +35,7 @@
     {
         "title": "Build forms in your project",
         "description": "Build your forms easily with formspree. You can just set your form’s action to their endpoint and write no server code, or deploy your forms with CI/CD",
-        "url": " https://formspree.io/",
+        "url": "https://formspree.io",
         "tags": ["forms", "API"]
     },
     {
@@ -143,6 +143,12 @@
         "tags": ["icons", "SVG"]
     },
     {
+        "title": "DevDocs",
+        "description": "Free, API documentation of programming language in details.",
+        "url": "https://devdocs.io/",
+        "tags": ["web", "documentation"]
+    },
+    {
         "title": "FontAwesome",
         "description": "Font Awesome is the Internet's icon library and toolkit, used by millions of designers, developers, and content creators.",
         "url": "https://fontawesome.com/",
@@ -162,5 +168,12 @@
       "url": "https://boxicons.com/",
       "tags": ["icons", "SVG"],
       "image": "https://user-images.githubusercontent.com/37544904/194783902-46768fee-73e6-41cb-b8c0-a64d22ac4ff0.png"
+    },
+     {
+      "title": "GitHub Skills",
+      "description": "Learn how to use GitHub with interactive courses designed for beginners and experts.",
+      "url": "https://skills.github.com/",
+      "tags": ["git", "github"],
+      "image": "https://user-images.githubusercontent.com/1221423/156894097-ff2d6566-7b6a-4488-950e-f4ebe990965a.svg"
     }
 ]
